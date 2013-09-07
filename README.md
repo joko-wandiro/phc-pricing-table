@@ -10,10 +10,12 @@ Features:
 * Complete Documentation Page so you can use it and contribute too
 
 Any feedback will be appreciated to make this plugin better.
+You can also give me a feedback on [Forrst](https://forrst.com/posts/Wordpress_Plugin_Pricing_Table_Extended-GL3)
 
 * Demo currently is not available. I will upload it later
 * [Download](https://github.com/joko-wandiro/phc-pricing-table)
 * License: [GNU GPL](http://www.gnu.org/licenses/gpl-3.0.txt)
+
 
 ## Screenshot ( Available Themes )
 ![Notableapp](theme/notableapp/preview.png)
