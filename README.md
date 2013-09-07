@@ -8,6 +8,7 @@ Features:
 * Unlimited Theme ( You can help me, create more theme by yourself )
 * Translation available ( I need your help too for translate it into your languages )
 * Complete Documentation Page so you can use it and contribute too
+* I think it's not feature but important for me. Donate button available for you
 
 Any feedback will be appreciated to make this plugin better.
 You can also give me a feedback on [Forrst](https://forrst.com/posts/Wordpress_Plugin_Pricing_Table_Extended-GL3)
