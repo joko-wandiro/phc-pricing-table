@@ -23,6 +23,22 @@ function phc_pricing_table_documentation(){
 	<div class="wrap" id="<?php echo PHC_PRICING_TABLE_IDENTIFIER; ?>">
 	<?php screen_icon('page'); ?>
 	<h2><?php _e("Documentation", PHC_PRICING_TABLE_IDENTIFIER); ?></h2>
+	
+	<div id="container-donate-btn">
+	<div class="form">
+	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+	">
+	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypalobjects.com/id_ID/i/scr/pixel.gif" width="1" height="1">
+	</form>
+	</div>
+	<div class="float-left">
+	<?php _ex("If it useful for you and want give me a donation, just click Donate Button", 
+	"donation text", PHC_PRICING_TABLE_IDENTIFIER); ?>
+	</div>
+	</div>
 	<div id="tabs">
 	<ul>
 	<li><a href="#tabs-how-to-use"><?php _ex("How to Use", "documentation tab", 

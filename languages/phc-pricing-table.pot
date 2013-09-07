@@ -115,6 +115,10 @@ msgctxt "documentation tab"
 msgid "Translation"
 msgstr ""
 
+msgctxt "donation text"
+msgid "If it useful for you and want give me a donation, just click Donate Button"
+msgstr ""
+
 msgid "Goto Pricing Tables &gt; Add New Pricing Table."
 msgstr ""
 

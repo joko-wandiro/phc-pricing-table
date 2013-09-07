@@ -1,6 +1,19 @@
 #phc-pricing-table {
 padding-left: 20px;
 }
+#container-donate-btn {
+background: #00BA84;
+color: white;
+min-height: 60px;
+padding: 10px;
+}
+#container-donate-btn div.form {
+float: left;
+width: 180px;
+}
+#container-donate-btn .float-left {
+font-size: 18px;
+}
 #tabs {
 border: none;
 margin-top: 10px;
