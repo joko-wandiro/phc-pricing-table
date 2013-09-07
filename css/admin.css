@@ -1,0 +1,8 @@
+/**ADMIN STYLES**/
+#adminmenu #menu-posts-pricing-tables .wp-menu-image {
+width: 40px;
+}
+#adminmenu #menu-posts-pricing-tables .wp-menu-name {
+line-height: 42px;
+padding: 0px;
+}

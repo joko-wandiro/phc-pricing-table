@@ -1,0 +1,63 @@
+div.meta-box-wrapper > div { margin-bottom: 10px; }
+div.meta-box-wrapper div label { width: 160px; float: left; line-height: 23px; }
+div.meta-box-wrapper div label.help-inline { float: none; }
+div.meta-box-wrapper div input[type="text"], div.meta-box-wrapper div input[type="password"], 
+div.meta-box-wrapper div textarea, div.meta-box-wrapper div select { width: 300px; }
+div.meta-box-wrapper .controls-input label, div.meta-box-wrapper div label.no-float {
+float: none;
+}
+div.meta-box-wrapper div.widget {
+margin-bottom: 0px;
+}
+div.meta-box-wrapper div.ui-state-highlight, .ui-state-highlight {
+border: 1px solid #fcefa1;
+color: #363636;
+background: #fbf9ee;
+height: 32px;
+line-height: 32px;
+margin-bottom: 0px;
+}
+#pricing-table-accordion .hndle {
+cursor: pointer;
+}
+#pricing-table-accordion .btn-icon-header {
+float: right;
+width: auto;
+height: 30px;
+line-height: 30px;
+margin-right: 10px;
+}
+#pricing-table-accordion .button-secondary {
+margin: 3px 0px;
+}
+#pricing-table-accordion .currency-input {
+width: 30px;
+text-align: right;
+}
+#pricing-table-accordion .price-input {
+width: 160px;
+}
+#pricing-table-accordion .price_per-input {
+width: 94px;
+}
+.pricing-table-section {
+padding: 10px;
+height: auto!important;
+}
+.template-pricing-table-form, .template-pricing-table-features-element {
+display: none;
+}
+#theme-preview img {
+width: 70%;
+}
+/* Hidden Another Element */
+#minor-publishing {
+display: none;
+}
+#titlediv .inside {
+display: none;
+}
+#message p  a {
+display: none;
+}
+/* Hidden Another Element */

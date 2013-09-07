@@ -1,0 +1,84 @@
+.phc-pricing-table, ul.phc-pricing-table {
+font-family: "Proxima Nova","HelveticaNeue",Helvetica,Arial,sans-serif;
+width: 100%;
+list-style-type: none;
+margin-left: 0px;
+}
+.phc-pricing-table > li {
+float: left;
+border: #ddd 1px solid;
+margin-bottom: 5px;
+line-height: 18px;
+padding: 2%;
+text-align: left;
+margin-left: 0px;
+}
+.phc-pricing-table > li.feature {
+margin-top: -16px;
+margin-left: -1px;
+padding: 26px 2%;
+border: #ffb134 4px solid;
+z-index: 11;
+-webkit-box-shadow: 0 3px 14px rgba(0,0,0,0.3);
+-moz-box-shadow: 0 3px 14px rgba(0,0,0,0.3);
+}
+.phc-pricing-table > li h2 {
+font-size: 35px;
+font-weight: 300;
+color: #333;
+line-height: 1.25;
+margin-top: -7px;
+margin-bottom: 0;
+}
+.phc-pricing-table > li .price {
+color: #333;
+font-size: 21px;
+font-weight: bold;
+line-height: 1.25;
+}
+.phc-pricing-table > li .details p {
+font-size: 13px;
+color: #555;
+line-height: 18px;
+margin: 0 0 18px;
+}
+.phc-pricing-table li > ul {
+margin-bottom: 18px;
+list-style-type: none;
+}
+.phc-pricing-table li > ul li {
+border-bottom: #eee 1px solid;
+padding-bottom: 5px;
+margin-bottom: 5px;
+margin-left: 0px;
+line-height: 18px;
+}
+.phc-pricing-table li > ul li:last-child {
+border-bottom: none;
+}
+.phc-pricing-table .button {
+text-align: center;
+}
+.phc-pricing-table .button a {
+text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+background-color: #ffb134;
+font-size: 18px;
+padding: 11px 48px 13px;
+width: auto;
+display: inline-block;
+text-align: center;
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+line-height: 1;
+font-family: "Helvetica Neue","Helvetica",Arial,Verdana,sans-serif;
+position: relative;
+cursor: pointer;
+border: none;
+}
+.phc-pricing-table .button a:hover {
+background-color: #ed9e21;
+}
+.singular .entry-header, .singular .entry-content, .singular footer.entry-meta, .singular #comments-title {
+width: 100%;
+}

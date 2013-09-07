@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: phc-pricing-table\n"
+"POT-Creation-Date: 2013-09-06 18:39+0700\n"
+"PO-Revision-Date: 2013-09-06 23:23+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../.\n"
+
+msgid "Pricing Tables"
+msgstr ""
+
+msgid "Pricing Table"
+msgstr ""
+
+msgid "Add New Pricing Table"
+msgstr ""
+
+msgid "Edit Pricing Table"
+msgstr ""
+
+msgid "New Pricing Table"
+msgstr ""
+
+msgid "View Pricing Table"
+msgstr ""
+
+msgid "Search Pricing Tables"
+msgstr ""
+
+msgid "No Pricing Tables Found"
+msgstr ""
+
+msgid "No Pricing Tables Found In Trash"
+msgstr ""
+
+msgid "New Plan"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Set Recommended / Popular"
+msgstr ""
+
+msgid "Plan"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Detail"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Button Url"
+msgstr ""
+
+msgid "Button Text"
+msgstr ""
+
+msgid "Add Feature"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgctxt "column"
+msgid "Title"
+msgstr ""
+
+msgctxt "column"
+msgid "Shortcode"
+msgstr ""
+
+msgctxt "column"
+msgid "Plan"
+msgstr ""
+
+msgctxt "column"
+msgid "Author"
+msgstr ""
+
+msgctxt "column"
+msgid "Date"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgctxt "documentation tab"
+msgid "How to Use"
+msgstr ""
+
+msgctxt "documentation tab"
+msgid "Customize Themes"
+msgstr ""
+
+msgctxt "documentation tab"
+msgid "Create New Theme"
+msgstr ""
+
+msgctxt "documentation tab"
+msgid "Translation"
+msgstr ""
+
+msgid "Goto Pricing Tables &gt; Add New Pricing Table."
+msgstr ""
+
+msgid "Enter Title. Ex: Pricing Table."
+msgstr ""
+
+msgid "Click New Plan to add each of your plan."
+msgstr ""
+
+msgid "Fill fields of your plan like the following image."
+msgstr ""
+
+msgid "Then add your next plan, assume like the following image."
+msgstr ""
+
+msgid "Click selectbox to select Theme for your pricing table."
+msgstr ""
+
+msgid "Click Publish Button to save data."
+msgstr ""
+
+msgid ""
+"Goto Pricing Tables to view all of your pricing tables. You can add it into "
+"your post or page, just copy shortcode syntax on Shortcode column. Then you "
+"will get your pricing table on your post / page."
+msgstr ""
+
+msgid ""
+"Goto Posts &gt; All Posts. Then click edit on specific post. You can create "
+"new post / page later, I use edit post just for example."
+msgstr ""
+
+msgid "Add pricing table shortcode like the following image."
+msgstr ""
+
+msgid ""
+"Click Update. Then click View Post button to check pricing table is shown on "
+"your post. You should see your post like the following image."
+msgstr ""
+
+#: Content of Tab Customize Theme
+msgid ""
+"Goto phc pricing table plugin directory ( wp-content/plugins/phc-pricing-"
+"table ). then select theme folder."
+msgstr ""
+
+msgid ""
+"Theme pricing table have the following structure. For example I will use "
+"sort theme."
+msgstr ""
+
+msgid ""
+"layout.tpl file contain html markup. Value which wrapped with curle bracket "
+"will be replaced with proper value using template parser."
+msgstr ""
+
+msgid ""
+"theme.js contain javascript and theme.css contain stylesheet for your "
+"pricing table."
+msgstr ""
+
+#: Content of Tab Add New Theme
+msgid "Copy – Paste folder sort and rename it to mine."
+msgstr ""
+
+msgid ""
+"Goto Pricing Tables > Add New Pricing Table. Click selectbox theme and you "
+"can select your new theme."
+msgstr ""
+
+msgid ""
+"Now you can create your own pricing table's theme and I will create extra "
+"page or something like that so you can share your theme to another user. "
+"Thanks everyone to use this plugin."
+msgstr ""
+
+#: Content of Tab Translation
+msgid "Help me to Translate it. I provide POT file on languages folder. You can use translation application such as POEdit and translate it to your locale language and save it into PO file and MO file"
+msgstr ""
+
+msgid "You can contribute to make it bigger with your support guys !"
+msgstr ""

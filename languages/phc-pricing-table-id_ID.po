@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: phc-pricing-table\n"
+"POT-Creation-Date: 2013-09-06 18:39+0700\n"
+"PO-Revision-Date: 2013-09-07 15:05+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../.\n"
+
+msgid "Pricing Tables"
+msgstr "Tabel Harga"
+
+msgid "Pricing Table"
+msgstr "Tabel Harga"
+
+msgid "Add New Pricing Table"
+msgstr "Tambah Tabel Harga Baru"
+
+msgid "Edit Pricing Table"
+msgstr "Rubah Tabel Harga"
+
+msgid "New Pricing Table"
+msgstr "Tabel Harga Baru"
+
+msgid "View Pricing Table"
+msgstr "Tampilkan Tabel Harga"
+
+msgid "Search Pricing Tables"
+msgstr "Cari Tabel Harga"
+
+msgid "No Pricing Tables Found"
+msgstr "Tabel Harga tidak ditemukan"
+
+msgid "No Pricing Tables Found In Trash"
+msgstr "Tabel Harga tidak ditemukan di Trash"
+
+msgid "New Plan"
+msgstr "Rencana Baru"
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "Remove"
+msgstr "Hapus"
+
+msgid "Set Recommended / Popular"
+msgstr "Atur menjadi Rekomendasi / Populer"
+
+msgid "Plan"
+msgstr "Rencana"
+
+msgid "Title"
+msgstr "Judul"
+
+msgid "Detail"
+msgstr "Rincian"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Button Url"
+msgstr "Button Url"
+
+msgid "Button Text"
+msgstr "Button Text"
+
+msgid "Add Feature"
+msgstr "Tambah Keunggulan"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgctxt "column"
+msgid "Title"
+msgstr "Judul"
+
+msgctxt "column"
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgctxt "column"
+msgid "Plan"
+msgstr "Rencana"
+
+msgctxt "column"
+msgid "Author"
+msgstr "Author"
+
+msgctxt "column"
+msgid "Date"
+msgstr "Tanggal"
+
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+msgctxt "documentation tab"
+msgid "How to Use"
+msgstr "Bagaimana Menggunakannya"
+
+msgctxt "documentation tab"
+msgid "Customize Themes"
+msgstr "Kustomisasi Tema"
+
+msgctxt "documentation tab"
+msgid "Create New Theme"
+msgstr "Buat Tema Baru"
+
+msgctxt "documentation tab"
+msgid "Translation"
+msgstr "Terjemahan"
+
+msgid "Goto Pricing Tables &gt; Add New Pricing Table."
+msgstr "Pilih Tabel Harga &gt; Tambah Tabel Harga Baru"
+
+msgid "Enter Title. Ex: Pricing Table."
+msgstr "Masukan Judul. Ex: Pricing Table."
+
+msgid "Click New Plan to add each of your plan."
+msgstr "Klik Rencana Baru untuk menambah masing masing rencana."
+
+msgid "Fill fields of your plan like the following image."
+msgstr "Isikan fields dari rencanamu seperti gambar berikut."
+
+msgid "Then add your next plan, assume like the following image."
+msgstr "Lalu tambahkan rencana selanjutmu, anggap seperti gambar berikut"
+
+msgid "Click selectbox to select Theme for your pricing table."
+msgstr "Klik selectbox untuk memilih tema tabel harga."
+
+msgid "Click Publish Button to save data."
+msgstr "Klik Publish Button untuk menyimpan data."
+
+msgid ""
+"Goto Pricing Tables to view all of your pricing tables. You can add it into "
+"your post or page, just copy shortcode syntax on Shortcode column. Then you "
+"will get your pricing table on your post / page."
+msgstr ""
+"Pilih Tabel Harga untuk menampilkan seluruh tabel harga. Kau bisa "
+"menambahnya kedalam post atau page, copy syntax shortcode pada kolom "
+"Shortcode. Lalu kau akan memperoleh tabel harga-mu pada post atau page."
+
+msgid ""
+"Goto Posts &gt; All Posts. Then click edit on specific post. You can create "
+"new post / page later, I use edit post just for example."
+msgstr ""
+"Pilih Posts &gt; All Posts. Lalu klik edit pada post tertentu. Kau bisa "
+"membuat post / page baru nanti, Kita gunakan edit post untuk contoh."
+
+msgid "Add pricing table shortcode like the following image."
+msgstr "Tambah shortcode tabel harga seperti gambar berikut."
+
+msgid ""
+"Click Update. Then click View Post button to check pricing table is shown on "
+"your post. You should see your post like the following image."
+msgstr ""
+"Klik Update. Lalu klik View Post untuk mengecek tabel harga tampil pada post-"
+"mu. Kau seharusnya melihat post-mu seperti gambar berikut."
+
+#: Content of Tab Customize Theme
+msgid ""
+"Goto phc pricing table plugin directory ( wp-content/plugins/phc-pricing-"
+"table ). then select theme folder."
+msgstr ""
+"Pilih direktori plugin phc pricing table ( wp-content/plugins/phc-pricing-"
+"table ) lalu pilih folder theme."
+
+msgid ""
+"Theme pricing table have the following structure. For example I will use "
+"sort theme."
+msgstr ""
+"Tema tabel harga memiliki struktur berikut. Contohnya Kita akan menggunakan "
+"sort theme."
+
+msgid ""
+"layout.tpl file contain html markup. Value which wrapped with curle bracket "
+"will be replaced with proper value using template parser."
+msgstr ""
+"file layout.tpl berisi html markup. Nilai yang dibungkus dengan tanda kurung "
+"keriting akan diganti dengan nilai tepat menggunakan template parser."
+
+msgid ""
+"theme.js contain javascript and theme.css contain stylesheet for your "
+"pricing table."
+msgstr ""
+"theme.js berisi javascript and theme.css berisi stylesheet untuk tabel harga."
+
+#: Content of Tab Add New Theme
+msgid "Copy – Paste folder sort and rename it to mine."
+msgstr "Copy – Paste folder sort and namai ulang menjadi mine."
+
+msgid ""
+"Goto Pricing Tables > Add New Pricing Table. Click selectbox theme and you "
+"can select your new theme."
+msgstr ""
+"Pilih Tabel Harga > Tambah Tabel Harga Baru. Klik selectbox tema dan kau "
+"bisa memilih tema baru-mu."
+
+msgid ""
+"Now you can create your own pricing table's theme and I will create extra "
+"page or something like that so you can share your theme to another user. "
+"Thanks everyone to use this plugin."
+msgstr ""
+"Sekarang anda bisa membuat tema tabel harga buatanmu dan Kita akan membuat "
+"halaman extra atau sesuatu seperti itu jadi kau bisa membagi tema-mu ke "
+"pengguna lainnya. Terima kasih telah menggunakan plugin ini."
+
+#: Content of Tab Translation
+msgid ""
+"Help me to Translate it. I provide POT file on languages folder. You can use "
+"translation application such as POEdit and translate it to your locale "
+"language and save it into PO file and MO file"
+msgstr ""
+"Bantu saya menerjemahkan. Saya menyediakan file POT pada languages folder. "
+"Kau bisa menggunakan aplikasi seperti POEdit dan menerjemahkan ke bahasa-mu "
+"dan menyimpannya kedalam PO file and MO file"
+
+msgid "You can contribute to make it bigger with your support guys !"
+msgstr ""
+"Kau bisa berkontribusi untuk membuatnya lebih besar dengan dukunganmu kawan-"
+"kawan !"
