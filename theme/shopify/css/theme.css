@@ -1,0 +1,76 @@
+.phc-pricing-table, ul.phc-pricing-table, ul.phc-pricing-table li > ul {
+width: 100%;
+list-style-type: none;
+margin-left: 0px;
+}
+.phc-pricing-table > li {
+float: left;
+background: #ecf2f6;
+border: 1px solid #d9dee1;
+border-radius: 2px;
+padding: 60px 4%;
+text-align: center;
+margin-left: 0px;
+}
+.phc-pricing-table > li.feature {
+background: #fff;
+margin-top: -30px;
+padding: 90px 4%;
+box-shadow: 0px 0px 10px rgba(0,0,0,0.05);
+}
+.phc-pricing-table > li div.price {
+font-size: 60px;
+color: #479ccf;
+text-align: center;
+}
+.phc-pricing-table > li span.currency {
+font-size: 30px;
+font-family: "ProximaNovaThin","Helvetica Neue",Helvetica,Arial,sans-serif;
+vertical-align: text-top;
+}
+.phc-pricing-table > li span.price_per {
+font-size: 14px;
+}
+.phc-pricing-table > li h2 {
+font-size: 18px;
+font-family: "ProximaNovaRegular","Helvetica Neue",Helvetica,Arial,sans-serif;
+text-transform: uppercase;
+color: #000;
+letter-spacing: 2px;
+padding-bottom: 0px;
+margin-bottom: 0px;
+}
+.phc-pricing-table > li .details {
+margin-bottom: 15px;
+border-bottom: 1px solid #d9dee1;	
+}
+.phc-pricing-table .button a {
+display: block;
+background: #479ccf;
+color: #fff;
+padding: 10px 0px;
+border: 1px solid #479ccf;
+border-radius: 1px;
+font-family: "ProximaNovaSemiBold","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 14px;
+text-decoration: none;
+text-shadow: 0 1px 1px #2e81b3;
+cursor: pointer;
+-webkit-appearance: none;
+margin-bottom: 10px;
+}
+.phc-pricing-table .button a:hover {
+border: 1px solid #378bbd;
+background: #3396c3;
+}
+ul.phc-pricing-table li > ul li {
+display: block;
+text-align: center;
+font-size: 14px;
+line-height: 28px;
+color: #526066;
+margin: 0px;
+}
+.singular .entry-header, .singular .entry-content, .singular footer.entry-meta, .singular #comments-title {
+width: 100%;
+}

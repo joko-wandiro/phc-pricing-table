@@ -1,0 +1,86 @@
+.phc-pricing-table, ul.phc-pricing-table {
+width: 100%;
+list-style-type: none;
+margin-left: 0px;
+}
+.phc-pricing-table > li {
+background: #FFFFFF;
+float: left;
+border: 1px solid #C9C9C9;
+margin: 38px 0px;
+-webkit-border-radius: 5px 5px 0 0;
+-moz-border-radius: 5px 5px 0 0;
+border-radius: 5px 5px 0 0;
+margin-right: 2%;
+}
+.phc-pricing-table > li:last-child {
+margin-right: 0%;
+}
+.phc-pricing-table > li .header-title {
+background: url(../img/pattern.png) repeat;
+height: 39px;
+margin-bottom: 1px;
+border-bottom: 1px solid #C9C9C9;
+-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+-webkit-border-radius: 3px 3px 0 0;
+-moz-border-radius: 3px 3px 0 0;
+border-radius: 3px 3px 0 0;
+}
+.phc-pricing-table > li .header-title h2 {
+font-size: 20px;
+line-height: 39px;
+color: #5f6C75;
+text-align: center;
+text-transform: uppercase;
+text-shadow: 0 1px #FFFFFF;
+margin: 0px;
+}
+.phc-pricing-table > li .description {
+padding: 20px 19px;
+}
+.phc-pricing-table > li .description p {
+margin: 0px;
+}
+.phc-pricing-table > li .feature ul {
+border: 1px solid #C9C9C9;
+border-right: none;
+border-left: none;
+list-style-type: none;
+}
+.phc-pricing-table > li .feature ul li {
+padding: 0px 10px;
+margin: 0px;
+}
+.phc-pricing-table > li .currency {
+font-size: 28px;
+margin-right: 5px;
+}
+.phc-pricing-table > li .price {
+font-size: 48px;
+font-weight: bold;
+line-height: 40px;
+letter-spacing: 1px;
+text-shadow: 0px 0px 1px #EAEAEA;
+}
+.phc-pricing-table > li a.addtocart {
+margin-left: 14px;
+background-color: #FF4629;
+font-size: 16px;
+font-weight: bold;
+letter-spacing: 1px;
+color: #FFFFFF;
+padding: 10px;
+text-align: center;
+-webkit-border-radius: 5px 5px 5px 5px;
+-moz-border-radius: 5px 5px 5px 5px;
+border-radius: 5px 5px 5px 5px;
+width: 120px;
+text-decoration: none;
+}
+.phc-pricing-table > li a.addtocart:hover {
+background-color: #414141;
+}
+.singular .entry-header, .singular .entry-content, .singular footer.entry-meta, .singular #comments-title {
+width: 100%;
+}
